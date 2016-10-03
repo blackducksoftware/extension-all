@@ -4,6 +4,6 @@
 
 Coming Soon!
 
-## Extesion Library
+## Extension Library
 
 Coming Soon!
