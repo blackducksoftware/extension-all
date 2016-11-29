@@ -2,7 +2,7 @@
 
 ## Email Extension
 
-Coming Soon!
+https://github.com/blackducksoftware/hub-email-extension
 
 ## Extension Library
 
